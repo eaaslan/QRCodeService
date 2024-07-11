@@ -1,0 +1,31 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/QRCode Service/*
+!/QRCode Service/task/
+/QRCode Service/task/*
+!/QRCode Service/task/src
+!/QRCode Service/task/build.gradle
+
+# Project exclude paths
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/Does an array contain N/out/
+/Topics/Iterating over arrays/Does an array contain N/out/production/classes/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/production/classes/
+/Topics/The Map interface/Value or min/out/
+/Topics/The Map interface/Value or min/out/production/classes/
+/Topics/The Set interface/Creating a set/out/
+/Topics/The Set interface/Creating a set/out/production/classes/
