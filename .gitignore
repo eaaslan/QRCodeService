@@ -17,6 +17,7 @@ build
 !/QRCode Service/task/build.gradle
 
 # Project exclude paths
+/Topics
 /Topics/ArrayList/Find the nearest number/out/
 /Topics/ArrayList/Find the nearest number/out/production/classes/
 /Topics/Iterating over arrays/Check if an array is sorted ascending/out/
